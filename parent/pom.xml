@@ -23,7 +23,7 @@ limitations under the License.
         <V.com.braintribe.tomcat>[2.0,2.1)</V.com.braintribe.tomcat>
         <V.com.braintribe.common>[2.0,2.1)</V.com.braintribe.common>
         <V.com.braintribe.logging>[2.0,2.1)</V.com.braintribe.logging>
-        <V.org.apache.tomcat>9.0.102</V.org.apache.tomcat>
+        <V.org.apache.tomcat>9.0.106</V.org.apache.tomcat>
         <V.com.googlecode.json-simple>1.1.1</V.com.googlecode.json-simple>
         <V.org.apache.httpcomponents>4.5.13</V.org.apache.httpcomponents>
     </properties>
